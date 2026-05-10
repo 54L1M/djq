@@ -1,6 +1,6 @@
 # Project djq
 
-One Paragraph of project description goes here
+A distributed job queue in Go for me to deepen my knowledge of the language.
 
 ## Getting Started
 
